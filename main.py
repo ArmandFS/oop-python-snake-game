@@ -26,7 +26,7 @@ screen.onkey(snake.right, "Right")
 
 game_is_on = True
 while game_is_on:
-  
+#while loop for game
     screen.update()
     time.sleep(0.05)
 
