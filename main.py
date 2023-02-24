@@ -9,7 +9,7 @@ import time
 screen = Screen()
 screen.setup(width=800, height=800)
 screen.bgcolor("black")
-screen.title("Armand's Snake game!")
+screen.title("Armand's Python Snake game!")
 #tracer function to turn animation on/off)
 screen.tracer(0)
 
